@@ -8,111 +8,140 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link href="stylesheets/fixed-positioning.css" rel="stylesheet" type="text/css" />
-	<link href="stylesheets/main.css" rel="stylesheet" type="text/css" />
-	<style>
-	.xg_link{
-		/* Safari and Chrome */
-		/* 动画名称 */
-		-webkit-animation-name:breath;
-		/* 动画时长3秒 */
-		-webkit-animation-duration:.5s;
-		/* 动画速度曲线：以低速开始和结束 */
-		-webkit-animation-timing-function:ease-in-out;
-		/* 播放次数：无限 */
-		-webkit-animation-iteration-count:infinite;
-		-webkit-transform:translateY(0);
-		/* IE10、Firefox and Opera，IE9以及更早的版本不支持 */
-		animation-name:breath;
-		animation-duration:.5s;
-		animation-timing-function:ease-in-out;
-		animation-iteration-count:infinite;
-		}
-		@-webkit-keyframes breath {
-		/* 动画开始时的不透明度 */
-		from {text-shadow: 0px 0px 4px #000000;}
-		/* 动画50% 时的不透明度 */
-		50% {text-shadow: 0px 0px 40px #ff0000;color:#f00}
-		/* 动画结束时的不透明度 */
-		to {text-shadow: 0px 0px 4px #000000;}
-		}
-		@keyframes breath {
-		from {text-shadow: 0px 0px 4px #000000;}
-		50% {text-shadow: 0px 0px 40px #ff0000;color:#f00}
-		to {text-shadow: 0px 0px 4px #000000;}
-		}
-	</style>
   </head>
   <body>
-    <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div>
-	<div id="bg2" data-0="background-position:0px 0px;" data-end="background-position:-500px -8000px;"></div>
-	<div id="bg3" data-0="background-position:0px 0px;" data-end="background-position:-500px -6000px;"></div>
+    <section class="page-header">
+      <h1 class="project-name">Laiyongzhao</h1>
+      <h2 class="project-tagline">my website</h2>
+    </section>
 
-	<div id="progress" data-0="width:0%;background:hsl(200, 100%, 50%);" data-end="width:100%;background:hsl(920, 100%, 50%);"></div>
+    <section class="main-content">
+      <p>&lt;!DOCTYPE html&gt;
 
-	<div id="intro" data-0="opacity:1;top:3%;transform:rotate(0deg);transform-origin:0 0;" data-500="opacity:0;top:-10%;transform:rotate(-90deg);">
-		<h1><a href="http://laiyongzhao.com/wordpress/">铁人樱木</a></h1>
-		<h2><a class="xg_link" href="http://laiyongzhao.com/wordpress/" target="_blank">别点，点了你也看不懂。</a></h2>
-		<p>精彩内容，往下拉啊;-)</p>
-		<p class="arrows">▼&nbsp;▼&nbsp;▼</p>
-	</div>
+  </p>
+    
+    Laiyongzhao by laixiaolai
+    
+    
+    
+    
+    
+    
+    
+    
+    .xg_link{
+        /* Safari and Chrome &lt;em&gt;/
+        /&lt;/em&gt; 动画名称 &lt;em&gt;/
+        -webkit-animation-name:breath;
+        /&lt;/em&gt; 动画时长3秒 &lt;em&gt;/
+        -webkit-animation-duration:.5s;
+        /&lt;/em&gt; 动画速度曲线：以低速开始和结束 &lt;em&gt;/
+        -webkit-animation-timing-function:ease-in-out;
+        /&lt;/em&gt; 播放次数：无限 &lt;em&gt;/
+        -webkit-animation-iteration-count:infinite;
+        -webkit-transform:translateY(0);
+        /&lt;/em&gt; IE10、Firefox and Opera，IE9以及更早的版本不支持 &lt;em&gt;/
+        animation-name:breath;
+        animation-duration:.5s;
+        animation-timing-function:ease-in-out;
+        animation-iteration-count:infinite;
+        }
+        @-webkit-keyframes breath {
+        /&lt;/em&gt; 动画开始时的不透明度 &lt;em&gt;/
+        from {text-shadow: 0px 0px 4px #000000;}
+        /&lt;/em&gt; 动画50% 时的不透明度 &lt;em&gt;/
+        50% {text-shadow: 0px 0px 40px #ff0000;color:#f00}
+        /&lt;/em&gt; 动画结束时的不透明度 */
+        to {text-shadow: 0px 0px 4px #000000;}
+        }
+        <a href="https://github.com/keyframes" class="user-mention">@keyframes</a> breath {
+        from {text-shadow: 0px 0px 4px #000000;}
+        50% {text-shadow: 0px 0px 40px #ff0000;color:#f00}
+        to {text-shadow: 0px 0px 4px #000000;}
+        }
+    
+  
+  
+    <div id="bg1"></div>
+    <div id="bg2"></div>
+    <div id="bg3"></div>
 
-	<div id="transform" data-500="transform:scale(0) rotate(0deg);" data-1000="transform:scale(1) rotate(1440deg);opacity:1;" data-1600="" data-1700="transform:scale(5) rotate(3240deg);opacity:0;">
-		<h2>变形</h2>
-		<p>缩放、倾斜、旋转 任何元素</p>
-	</div>
+<pre><code>&lt;div id="progress" data-0="width:0%;background:hsl(200, 100%, 50%);" data-end="width:100%;background:hsl(920, 100%, 50%);"&gt;&lt;/div&gt;
 
-	<div id="properties" data-1700="top:100%;" data-2200="top:0%;" data-3000="display:block;" data-3700="top:-100%;display:none;">
-		<h2>所有数值属性</h2>
-		<p>宽度, 高度, 内边距, 字体大小, 层级, 巴拉巴拉...</p>
-	</div>
+&lt;div id="intro" data-0="opacity:1;top:3%;transform:rotate(0deg);transform-origin:0 0;" data-500="opacity:0;top:-10%;transform:rotate(-90deg);"&gt;
+    &lt;h1&gt;&lt;a href="http://laiyongzhao.com/wordpress/"&gt;铁人樱木&lt;/a&gt;&lt;/h1&gt;
+    &lt;h2&gt;&lt;a class="xg_link" href="http://laiyongzhao.com/wordpress/" target="_blank"&gt;别点，点了你也看不懂。&lt;/a&gt;&lt;/h2&gt;
+    &lt;p&gt;精彩内容，往下拉啊;-)&lt;/p&gt;
+    &lt;p class="arrows"&gt;▼&amp;nbsp;▼&amp;nbsp;▼&lt;/p&gt;
+&lt;/div&gt;
 
-	<div id="easing_wrapper" data-0="display:none;" data-3900="display:block;" data-4900="background:rgba(0, 0, 0, 0);color[swing]:rgb(0,0,0);" data-5900="background:rgba(0,0,0,1);color:rgb(255,255,255);" data-10000="top:0%;" data-12000="top:-100%;">
-		<div id="easing" data-3900="left:100%" data-4600="left:25%;">
-			<h2>很酷吧?</h2>
-			<p>当然.</p>
-			<p>让我们从<span data-3900="" data-4900="color[swing]:rgb(0,0,0);" data-5900="color:rgb(255,255,0);">白天</span> 来到黑夜...</p>
-			<p data-5900="opacity:0;font-size:100%;" data-6500="opacity:1;font-size:150%;">你可以轻松设置任何数值和属性</p>
-		</div>
+&lt;div id="transform" data-500="transform:scale(0) rotate(0deg);" data-1000="transform:scale(1) rotate(1440deg);opacity:1;" data-1600="" data-1700="transform:scale(5) rotate(3240deg);opacity:0;"&gt;
+    &lt;h2&gt;变形&lt;/h2&gt;
+    &lt;p&gt;缩放、倾斜、旋转 任何元素&lt;/p&gt;
+&lt;/div&gt;
 
-		<div class="drop" data-6500="left:15%;bottom:100%;" data-9500="bottom:0%;">渐变</div>
-		<div class="drop" data-6500="left:25%;bottom[quadratic]:100%;" data-9500="bottom:0%;">平方</div>
-		<div class="drop" data-6500="left:35%;bottom[cubic]:100%;" data-9500="bottom:0%;">立方</div>
-		<div class="drop" data-6500="left:45%;bottom[swing]:100%;" data-9500="bottom:0%;">摆动</div>
-		<div class="drop" data-6500="left:55%;bottom[WTF]:100%;" data-9500="bottom:0%;">WTF</div>
-		<div class="drop" data-6500="left:65%;bottom[inverted]:100%;" data-9500="bottom:0%;">倒置</div>
-		<div class="drop" data-6500="left:75%;bottom[bounce]:100%;" data-9500="bottom:0%;">反弹</div>
-	</div>
+&lt;div id="properties" data-1700="top:100%;" data-2200="top:0%;" data-3000="display:block;" data-3700="top:-100%;display:none;"&gt;
+    &lt;h2&gt;所有数值属性&lt;/h2&gt;
+    &lt;p&gt;宽度, 高度, 内边距, 字体大小, 层级, 巴拉巴拉...&lt;/p&gt;
+&lt;/div&gt;
 
-	<div id="download" data-10000="top[cubic]:100%;border-radius[cubic]:0em;background:rgb(0,50,100);border-width:0px;" data-12000="top:10%;border-radius:2em;background:rgb(190,230,255);border-width:10px;">
-		<h2>联系方式</h2>
-		<p>微博：<a href="http://weibo.com/lyz10" target="_blank" class="twitter-share-button" data-url="http://weibo.com/lyz10" data-via="Prinzhorn">秘密武器10</a></p>
-		<p>博客：<a href="http://laiyongzhao.com/wordpress/" target="_blank">点击这里就是咯！</a></p>
-		<p>微信：lailailai10</p>	
-		<p>QQ：646149636</p>
-	</div>
+&lt;div id="easing_wrapper" data-0="display:none;" data-3900="display:block;" data-4900="background:rgba(0, 0, 0, 0);color[swing]:rgb(0,0,0);" data-5900="background:rgba(0,0,0,1);color:rgb(255,255,255);" data-10000="top:0%;" data-12000="top:-100%;"&gt;
+    &lt;div id="easing" data-3900="left:100%" data-4600="left:25%;"&gt;
+        &lt;h2&gt;很酷吧?&lt;/h2&gt;
+        &lt;p&gt;当然.&lt;/p&gt;
+        &lt;p&gt;让我们从&lt;span data-3900="" data-4900="color[swing]:rgb(0,0,0);" data-5900="color:rgb(255,255,0);"&gt;白天&lt;/span&gt; 来到黑夜...&lt;/p&gt;
+        &lt;p data-5900="opacity:0;font-size:100%;" data-6500="opacity:1;font-size:150%;"&gt;你可以轻松设置任何数值和属性&lt;/p&gt;
+    &lt;/div&gt;
 
-	<div id="scrollbar" data-0="top:0%;margin-top:2px;" data-end="top:100%;margin-top:-52px;"></div>
+    &lt;div class="drop" data-6500="left:15%;bottom:100%;" data-9500="bottom:0%;"&gt;渐变&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:25%;bottom[quadratic]:100%;" data-9500="bottom:0%;"&gt;平方&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:35%;bottom[cubic]:100%;" data-9500="bottom:0%;"&gt;立方&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:45%;bottom[swing]:100%;" data-9500="bottom:0%;"&gt;摆动&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:55%;bottom[WTF]:100%;" data-9500="bottom:0%;"&gt;WTF&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:65%;bottom[inverted]:100%;" data-9500="bottom:0%;"&gt;倒置&lt;/div&gt;
+    &lt;div class="drop" data-6500="left:75%;bottom[bounce]:100%;" data-9500="bottom:0%;"&gt;反弹&lt;/div&gt;
+&lt;/div&gt;
 
-	<script type="text/javascript" src="dist/skrollr.min.js"></script>
+&lt;div id="download" data-10000="top[cubic]:100%;border-radius[cubic]:0em;background:rgb(0,50,100);border-width:0px;" data-12000="top:10%;border-radius:2em;background:rgb(190,230,255);border-width:10px;"&gt;
+    &lt;h2&gt;联系方式&lt;/h2&gt;
+    &lt;p&gt;微博：&lt;a href="http://weibo.com/lyz10" target="_blank" class="twitter-share-button" data-url="http://weibo.com/lyz10" data-via="Prinzhorn"&gt;秘密武器10&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;博客：&lt;a href="http://laiyongzhao.com/wordpress/" target="_blank"&gt;点击这里就是咯！&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;微信：lailailai10&lt;/p&gt; 
+    &lt;p&gt;QQ：646149636&lt;/p&gt;
+&lt;/div&gt;
 
-	<!--[if lt IE 9]>
-	<script type="text/javascript" src="dist/skrollr.ie.min.js"></script>
-	<![endif]-->
+&lt;div id="scrollbar" data-0="top:0%;margin-top:2px;" data-end="top:100%;margin-top:-52px;"&gt;&lt;/div&gt;
 
-	<script type="text/javascript">
-	var s = skrollr.init({
-		edgeStrategy: 'set',
-		easing: {
-			WTF: Math.random,
-			inverted: function(p) {
-				return 1-p;
-			}
-		}
-	});
-	//控制台输出代码
-	console.log('%c赖永钊', 'background-image:-webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );color:transparent;-webkit-background-clip: text;font-size:5em;');
-	</script>
+&lt;script type="text/javascript" src="dist/skrollr.min.js"&gt;&lt;/script&gt;
+
+&lt;!--[if lt IE 9]&gt;
+&lt;script type="text/javascript" src="dist/skrollr.ie.min.js"&gt;&lt;/script&gt;
+&lt;![endif]--&gt;
+
+&lt;script type="text/javascript"&gt;
+var s = skrollr.init({
+    edgeStrategy: 'set',
+    easing: {
+        WTF: Math.random,
+        inverted: function(p) {
+            return 1-p;
+        }
+    }
+});
+//控制台输出代码
+console.log('%c赖永钊', 'background-image:-webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );color:transparent;-webkit-background-clip: text;font-size:5em;');
+&lt;/script&gt;
+</code></pre>
+
+<p>
+</p>
+
+      <footer class="site-footer">
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
 
   
   </body>
