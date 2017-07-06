@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "这是我都第一篇jekyll博客，高端大气上档次吧!"
 date:   2017-07-06 16:06:01 +0800
 categories: jekyll update
