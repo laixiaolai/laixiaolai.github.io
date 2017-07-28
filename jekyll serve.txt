@@ -1,0 +1,2 @@
+当前目录运行  jekyll serve
+地址 localhost:4000
