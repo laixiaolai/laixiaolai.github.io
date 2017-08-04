@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JOMOO商城TEST!"
+title:  "JOMOO商城TEST 20170804!"
 date:   2017-08-04 11:06:01 +0800
 categories: jekyll update
 ---
@@ -51,7 +51,9 @@ categories: jekyll update
 
 
 
+* 网站logo没有添加替代文本alt
 
+  ![img](https://static.notion-static.com/6ae3c71ff54c411e8cc901a600a6b857/Untitled)
 
 
 
