@@ -8,7 +8,7 @@ categories: jekyll update
 
 本文链接：[http://👑🏅🏆.tk](http://👑🏅🏆.tk)
 
-### :computer:测试环境
+### 💻测试环境
 
 * chrome59.0.3071.86（正式版本） （64 位）浏览器
 
