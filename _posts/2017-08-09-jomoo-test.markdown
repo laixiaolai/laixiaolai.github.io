@@ -6,7 +6,7 @@ category: "JOMOO"
 categories: jekyll update
 ---
 
-本文链接：[http://👑🏅🏆.tk](http://👑🏅🏆.tk)
+本文链接：[http://👑🏅🏆.tk/jekyll/update/jomoo/2017/08/09/jomoo-test.html](http://👑🏅🏆.tk/jekyll/update/jomoo/2017/08/09/jomoo-test.html)
 
 ### 💻测试环境
 
