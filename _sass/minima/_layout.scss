@@ -222,8 +222,26 @@
     display:block;
     color:#0002ff;
   }
+  &:hover{
+    text-decoration:none;
+    h5{
+      background:#F00;
+      color:#FFF;
+    }
+    small{
+      color:#F00;
+    }
+  }
 }
-
+::selection {
+  background: #000;
+  color:#08ff65;
+   }
+/*Mozilla Firefox*/
+::-moz-selection {
+  background: #000;
+  color:#08ff65;
+}
 /**
  * Posts
  */
