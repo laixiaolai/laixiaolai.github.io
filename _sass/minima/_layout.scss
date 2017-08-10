@@ -201,8 +201,28 @@
   display: block;
   @include relative-font-size(1.5);
 }
-
-
+.list-group-item-info{
+  margin-bottom:5px;
+  border-bottom:1px dotted #ccc;
+}
+.list-group-item{
+  .d-flex{
+    margin-bottom:10px;
+  }
+  h5{
+    display:inline-block;
+    padding:0 5px;
+    font-size:14px;
+    font-weight:700;
+    margin-bottom:0;
+    background:#000;
+    color:#08ff65;
+  }
+  small{
+    display:block;
+    color:#0002ff;
+  }
+}
 
 /**
  * Posts
