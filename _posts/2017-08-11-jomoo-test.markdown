@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JOMOO商城TEST 20170809!"
-date:   2017-08-011 11:06:01 +0800
+date:   2017-08-11 11:06:01 +0800
 category: "JOMOO"
 categories: jekyll update
 ---
@@ -13,16 +13,22 @@ categories: jekyll update
 * chrome59.0.3071.86（正式版本） （64 位）浏览器
 
 
-* **前台首页 [http://shop.jomoo.com.cn](http://shop.jomoo.com.cn) ：**底部官方微博及微信服务号建议添加跳转链接或划过弹出二维码
+* **关于九牧-九牧智造 [http://shop.jomoo.com.cn/front/4fa8edbc8fce4abf85ee3394c4b76996](http://shop.jomoo.com.cn/front/4fa8edbc8fce4abf85ee3394c4b76996) ：**智慧浴室第五张图片缺失
 
-  ![img](https://static.notion-static.com/8d3c4fe64382408cae9fc022ef552628/Untitled)
+  ![img](https://static.notion-static.com/af9423eb83fa405a869d8de2b8ba2054/Untitled)
 
-* **前台首页 [http://shop.jomoo.com.cn](http://shop.jomoo.com.cn) ：**底部微信公众号建议直接显示公众号二维码或者划过弹出二维码图片
+  ​
 
-![img](https://static.notion-static.com/5bd722fe9971402797bbe23fc4a9be4e/Untitled)
+* **前台首页 [http://shop.jomoo.com.cn/front/419a7722ce4f45018e62b37ad585c8ec](http://shop.jomoo.com.cn/front/419a7722ce4f45018e62b37ad585c8ec) ：**底部新手入门-加入我们页面：我们的优势图片缺失
+
+  ![img](https://static.notion-static.com/ae100f7715574dc18b156bb926861ce2/Untitled)
 
 
 
-* **导航全部商品分类-电脑专区-定制电视[http://shop.jomoo.com.cn/front/productList/toProductList?categoryUuid=dzds](http://shop.jomoo.com.cn/front/productList/toProductList?categoryUuid=dzds)** ：多选按钮建议光标样式改为手型（cursor:pointer)，价格多选按钮边框颜色建议加深，只能点击多选按钮选择价格，建议点击价格数字也能选择，没有更多内容选项的时候建议去除更多选项按钮；
+* 导航**关于九牧-新闻中心-采购招标[http://shop.jomoo.com.cn/frontshow/brandnewscategory/toList](http://shop.jomoo.com.cn/frontshow/brandnewscategory/toList)** ：新闻图片缺失
 
-![img](https://static.notion-static.com/5c6a6125d5ec464995fad809c71b1832/Untitled)
+  ![img](https://static.notion-static.com/1ee3eed1213c47878e919e90bc26e217/Untitled)
+
+* 首页[http://shop.jomoo.com.cn](http://shop.jomoo.com.cn)底部**新手入门- 账号注册**链接错误
+
+  ![img](https://static.notion-static.com/5fee9479fd794b83b0de310339e68205/Untitled)
