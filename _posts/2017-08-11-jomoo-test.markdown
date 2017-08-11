@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JOMOO商城TEST 20170809!"
+title:  "JOMOO商城TEST 20170811!"
 date:   2017-08-11 11:06:01 +0800
 category: "JOMOO"
 categories: jekyll update
