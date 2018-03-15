@@ -6,12 +6,9 @@ category: "IMOOC"
 categories: jekyll update
 ---
 
-### 💻测试环境
+### 💻批量自动生成雪碧图及位置信息
 
-* ## CssGaga
+* ## CssGaga 
 
-* http://www.99css.com/cssgaga/
+* [http://www.99css.com/cssgaga/](http://www.99css.com/cssgaga/)
 
-
-
-![img](https://static.notion-static.com/5fee9479fd794b83b0de310339e68205/Untitled)
