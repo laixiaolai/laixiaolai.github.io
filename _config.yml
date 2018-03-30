@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 👑赖永钊
-email: laiyongzhao@gmail.com
+title: 👑XXX
+email: xxx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"  #私人定制(下一行写描述)
   一个低调而响亮的网站
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: laiyongzhao
-github_username:  laixiaolai
+twitter_username: xxx
+github_username:  xxx
 google_analytics:  UA-104303209-3
 
 # Build settings
@@ -31,7 +31,7 @@ plugins:
 
 # disqus settings
 disqus:
-  shortname: laixiaolai
+  shortname: xxx
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
