@@ -255,13 +255,9 @@ pre {
   display: block;
   @include relative-font-size(1.5);
 }
-.list-group-item-info{
-  margin-bottom:5px;
-  border-bottom:1px dotted #ccc;
-}
 .list-group-item{
+  border:1px dotted #ccc;
   .d-flex{
-    margin-bottom:10px;
   }
   li{
     list-style:none;
@@ -289,6 +285,12 @@ pre {
       color:#F00;
     }
   }
+}
+.list-group-item-info{
+  border-bottom:1px dotted #ccc;
+  color: #333;
+  background-color: #FFF;
+  margin-top:10px;
 }
 ::selection {
   background: #000;
