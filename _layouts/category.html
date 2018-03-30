@@ -31,8 +31,8 @@ layout: default
                   <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="d-flex w-100 justify-content-between">
                       <h5 class="mb-1">{{ post.title | escape }}</h5>
-                      <small>{{ post.date | date: date_format }}</small>
                     </div>
+                    <small>{{ post.date | date: date_format }}</small>
                   </a>
                 {% endif %}
             {% endfor %}
