@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 <p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0;text-align:center;line-height:25px;">
-	<img src="/images/180330.jpg" alt="温故而知新" />
+	<img src="/images/180330.png" alt="温故而知新" />
 </p>
 <h1 class="Post-Title" data-reactid="22" style="margin-top: 24px;margin-bottom: 24px;font-variant-numeric: inherit;font-variant-east-asian: inherit;font-weight: 600;font-stretch: inherit;font-size: 24px;line-height: 1.22;">
   此文是一个叫“大文豪曼因斯坦”的大神16年发的帖子，预测非常准，读完受益匪浅，文章很长，需细细品尝！
