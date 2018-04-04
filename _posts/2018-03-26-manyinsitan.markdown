@@ -11,12 +11,6 @@ p{font-size:16px;text-indent:2em;}
 .tc{text-align:center;}
 .pb10{padding-bottom:10px;}
 </style>
-<div class="pct100 tc pb10">
-	<img src="/images/180330.png" alt="温故而知新" />
-</div>
-<h1 class="Post-Title" data-reactid="22" style="margin-top: 24px;margin-bottom: 24px;font-variant-numeric: inherit;font-variant-east-asian: inherit;font-weight: 600;font-stretch: inherit;font-size: 24px;line-height: 1.22;">
-  此文是一个叫“大文豪曼因斯坦”的大神发的帖子，预测非常准，读完受益匪浅，文章很长，需细细品尝！
-</h1>
 <p>
   世人都在说毛衣战，而我独言原油期货上线。为何如此，如果说特朗普挑起毛衣战是在老大哥胳膊上划了一刀的话，那人民币计价的原油期货上线就是在老美的心头狠狠扎了一刀。而且在这一刀后面尚有很多后手，除此之外，老大哥手里还有实锤，也可以选好位置来一锤，不信你们留意一下除了毛衣战之外的新闻。不就是一个原油期货么，大不了就是新开了一个赌场，有这啥了不起的。嗯，就是了不起，为何如此了不起就要从国际金融体系演变来说起了。
 </p>
