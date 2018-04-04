@@ -7,10 +7,13 @@ categories: jekyll update
 ---
 <style type="text/css">
 p{font-size:16px;text-indent:2em;}
+.pct100{width:100%;}
+.tc{text-align:center;}
+.pb10{padding-bottom:10px;}
 </style>
-<p>
+<div class="pct100 tc pb10">
 	<img src="/images/180330.png" alt="温故而知新" />
-</p>
+</div>
 <h1 class="Post-Title" data-reactid="22" style="margin-top: 24px;margin-bottom: 24px;font-variant-numeric: inherit;font-variant-east-asian: inherit;font-weight: 600;font-stretch: inherit;font-size: 24px;line-height: 1.22;">
   此文是一个叫“大文豪曼因斯坦”的大神发的帖子，预测非常准，读完受益匪浅，文章很长，需细细品尝！
 </h1>
