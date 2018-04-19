@@ -7,10 +7,13 @@ categories: jekyll update
 ---
 <style type="text/css">
 p{font-size:16px;text-indent:2em;}
+.pct100{width:100%;}
+.tc{text-align:center;}
+.pb10{padding-bottom:10px;}
 </style>
-<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0;text-align:center;line-height:25px;">
+<div class="pct100 tc pb10">
 	<img src="/images/180330.png" alt="温故而知新" />
-</p>
+</div>
 <p>
   想必大多数人最关心的还是楼市，那就先从楼市说起吧。
 </p>
