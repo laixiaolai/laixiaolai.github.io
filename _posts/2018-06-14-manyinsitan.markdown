@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2018 楼市，加息，汇率及其他（2）"
-date:   2018-06-13 23:59:00 +0800
+date:   2018-06-13 23:59:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---
