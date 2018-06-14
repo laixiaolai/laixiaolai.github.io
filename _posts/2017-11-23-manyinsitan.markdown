@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A股将何去何从？"
-date:   2017-11-23 16:06:01 +0800
+date:   2017-11-23 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "世人都在说毛衣战，我独言原油期货上线"
-date:   2018-03-26 00:46:00 +0800
+date:   2018-03-26 00:46:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

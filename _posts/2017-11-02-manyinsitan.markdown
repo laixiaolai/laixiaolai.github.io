@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2017 楼市，加息，汇率及其他（11）"
-date:   2017-11-02 16:06:01 +0800
+date:   2017-11-02 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

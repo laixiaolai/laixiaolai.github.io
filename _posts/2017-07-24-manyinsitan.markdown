@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "深谋远虑，意取未来——全国金融工作会议解读"
-date:   2017-07-24 16:06:01 +0800
+date:   2017-07-24 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

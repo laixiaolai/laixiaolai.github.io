@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2016上半年，楼市，汇率，加息以及其他"
-date:   2016-07-06 16:06:01 +0800
+date:   2016-07-06 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2018，大事近矣"
-date:   2018-01-01 16:06:01 +0800
+date:   2018-01-01 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

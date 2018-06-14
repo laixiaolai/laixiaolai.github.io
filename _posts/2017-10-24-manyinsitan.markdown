@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "央行定向降准之姗姗来迟的解读"
-date:   2017-10-24 16:06:01 +0800
+date:   2017-10-24 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

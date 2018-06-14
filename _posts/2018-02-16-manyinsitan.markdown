@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "未来已来，每个人都有自己的舞台"
-date:   2018-02-16 16:06:01 +0800
+date:   2018-02-16 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

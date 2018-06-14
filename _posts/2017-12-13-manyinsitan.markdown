@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "若特朗普强行减税，美国将步入万丈深渊"
-date:   2017-12-13 16:06:01 +0800
+date:   2017-12-13 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "勿谓言之不预也"
-date:   2018-04-11 00:23:00 +0800
+date:   2018-04-11 00:23:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "放眼国际局势看老大哥一系列改革"
-date:   2018-03-15 23:49:00 +0800
+date:   2018-03-15 23:49:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

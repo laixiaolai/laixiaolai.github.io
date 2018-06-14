@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "透过2535亿经贸大单看中美博弈"
-date:   2017-11-15 16:06:01 +0800
+date:   2017-11-15 16:06:01 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

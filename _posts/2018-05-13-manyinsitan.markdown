@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "局势拨乱纷纷，到底何去何从？"
-date:   2018-05-13 00:43:00 +0800
+date:   2018-05-13 00:43:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---

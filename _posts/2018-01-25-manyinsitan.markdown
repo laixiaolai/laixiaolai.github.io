@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2018 楼市，加息，汇率及其他（1）"
-date:   2018-01-25 19:36:00 +0800
+date:   2018-01-25 19:36:00 +0000
 category: "Manyinsitan"
 categories: jekyll update
 ---
