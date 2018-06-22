@@ -11,6 +11,9 @@ p{font-size:16px;text-indent:2em;}
 .tc{text-align:center;}
 .pb10{padding-bottom:10px;}
 </style>
+<video width="100%" controls="controls">
+    <source src="http://www.jomoo.com.cn/video/mp4/S300.mp4" type="video/mp4"/>您的浏览器不支持 video 标签。
+</video>
 <p>
 最近一个月发生了很多事，很多朋友也能够感受到局势发展之迅速，老大哥似乎是四面楚歌，一片悲观。但从老大哥的表态和应对上相信大家能够感受到其中自信和从容。下面就最近局势的发展以及未来可能的走势做一个简析吧。
 </p>
