@@ -11,7 +11,7 @@ p{font-size:16px;text-indent:2em;}
 .tc{text-align:center;}
 .pb10{padding-bottom:10px;}
 </style>
-<video controls="controls" autoplay="autoplay" poster="screen.jpg" onplay="ture" width="592" height="252" onclick="if(/Android/.test(navigator.userAgent))this.play();">
+<video controls="controls" autoplay="autoplay" poster="screen.jpg" onplay="ture" width="100%" onclick="if(/Android/.test(navigator.userAgent))this.play();">
   <source src="http://www.jomoo.com.cn/video/mp4/S300.mp4">
   <source src="http://www.jomoo.com.cn/video/mp4/S300.mp4" type="video/mp4">
   <source src="http://xn--2l8hc92b.tk/images/S300.webm" type="video/webm">
