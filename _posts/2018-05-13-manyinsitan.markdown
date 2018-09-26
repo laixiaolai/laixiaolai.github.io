@@ -11,18 +11,6 @@ p{font-size:16px;text-indent:2em;}
 .tc{text-align:center;}
 .pb10{padding-bottom:10px;}
 </style>
-<video controls="controls" autoplay="autoplay" poster="screen.jpg" onplay="ture" width="100%" onclick="if(/Android/.test(navigator.userAgent))this.play();">
-  <source src="http://xn--2l8hc92b.ga/images/S300.mp4">
-  <source src="http://xn--2l8hc92b.ga/images/S300.mp4" type="video/mp4">
-  <source src="http://xn--2l8hc92b.ga/images/S300.webm" type="video/webm">
-  <source src="http://xn--2l8hc92b.ga/images/S500.ogv" type="video/ogg">
-</video>
-<video controls="controls" autoplay="autoplay" poster="screen.jpg" onplay="ture" width="592" height="252" onclick="if(/Android/.test(navigator.userAgent))this.play();">
-  <source src="http://www.100sucai.com/img/video/happyfit2.mp4">
-  <source src="http://www.100sucai.com/img/video/happyfit2.mp4" type="video/mp4">
-  <source src="http://html5videoformatconverter.com/data/images/happyfit2.webm" type="video/webm">
-  <source src="http://html5videoformatconverter.com/data/images/happyfit2.ogv" type="video/ogg">
-</video>
 <p>
 最近一个月发生了很多事，很多朋友也能够感受到局势发展之迅速，老大哥似乎是四面楚歌，一片悲观。但从老大哥的表态和应对上相信大家能够感受到其中自信和从容。下面就最近局势的发展以及未来可能的走势做一个简析吧。
 </p>
